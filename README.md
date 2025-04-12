@@ -20,8 +20,8 @@ Using the `arxiv` Python API, we scrape and analyze recent publications related 
 │   ├── coauth_top_all_topics.html           # Co-author Network (Top Authors)
 │   ├── coauth_top_video_generation.html     # Co-author Network (Top Video Authors)
 │   └── coauth_50_video_generation.html      # Co-author Network (Top 50 in Video Gen)
-└── data/ (optional)
-    └── *.csv or external files if exported
+└── data/ 
+    └── *.csv files 
 ```
 
 ## Key Visuals
