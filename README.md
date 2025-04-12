@@ -37,6 +37,9 @@ Using the `arxiv` Python API, we scrape and analyze recent publications related 
 - **Keyword Trends Over Time**  
   ![Trends](./previews/keyword_trends.png)
 
+- **Top Categories**  
+  ![Categories](./previews/categories_1.png)
+  
 - **Top Secondary Categories**  
   ![Categories](./previews/categories.png)
 
